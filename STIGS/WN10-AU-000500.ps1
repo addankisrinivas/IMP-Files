@@ -4,7 +4,7 @@
 
 .NOTES
     Author          : Srinivas Addanki
-    LinkedIn        : linkedin.com/in/srinivasaddanki
+    LinkedIn        : linkedin.com/in/srinivasaddanki/
     GitHub          : github.com/addankisrinivas
     Date Created    : 2025-02-24
     Last Modified   : 2025-02-26
